@@ -10,6 +10,7 @@ body{
   font-family: 'Inter', sans-serif;
   max-width: 1440px;
   font-size: 15px;
+  margin:0 auto;
 }
 .main_container{
   width:100%;
